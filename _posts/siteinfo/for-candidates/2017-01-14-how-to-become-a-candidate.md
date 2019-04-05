@@ -15,7 +15,7 @@ Here’s how you can make your candidacy official.
   * Commit to promoting the Komodo ecosystem
   * Submit your proposal on Github
 * Join the test network
-  * Set up your notary node
+  * [Set up your notary node](https://github.com/Alrighttt/2019NNtestnet/)
   * Fund an address with a small amount of BTC
   * Start notarizing the test chain 
 * Demonstrate your skills to the community
