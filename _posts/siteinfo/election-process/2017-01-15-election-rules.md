@@ -7,6 +7,8 @@ category: 2-election-process
 ---
 - Candidates must submit a pull request to the Notary Node repository on Github that includes, at a minimum, their VOTE address(es) and the region(s) in which they are running. Only candidates who meet these basic requirements will be eligible for election.
 
+- Each region must have its own VOTE address. Votes cannot be moved between regions in case the candidate chooses later to also run on another region.
+
 - Candidates are highly encouraged to submit a proposal before April 1st. This allows candidates to begin campaigning and gives the KMD community— i.e. the voters— the opportunity to learn about the people who are running for election.
 
 - Once VOTE tokens are in a candidate’s VOTE address, they may not be moved again. Candidates may not trade or send the VOTE tokens they have received to other candidates.
